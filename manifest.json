@@ -1,0 +1,11 @@
+{
+    "name": "The first test extension",
+    "description": "normal extension",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "pop.html",
+        "default_icon": "test_extension.png"
+    }
+}
+
